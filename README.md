@@ -22,3 +22,9 @@ a:-Git rebase
 b:-Diff between merging and rebasing
 c:-How to create orphan branch and its implementation
 
+Date :12-12-2024
+Topics Covered:
+a:-Flowcharts and Pseudeo code,Installation
+b:-Variable,Data types,Operators
+c:-Conditional Statements,Loops
+
