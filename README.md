@@ -27,12 +27,22 @@ Topics Covered:
 a:-Flowcharts and Pseudeo code,Installation
 b:-Variable,Data types,Operators
 c:-type casting and type conversion
-d:-Conditional Statements,Loops
+d:-Conditional Statements,Loops[for loops,while loop]
+e:-Questions Practiced:
+  :-Character UpperCase or LowerCase
+  :-Print numbers from 1 to N
+  :-Sum of numbers from 1 to N
+  
 
 Date :13-12-2024
 Topics Covered:
-a:-Loops Practice Questions
+a:-Loops Practice Questions:
+ :-Prime Number
+ :-Sum of numbers divisible by 3
+ :-factorial of number
+b:-Do While loop
 b:-Nested Loops
 c:-Patterns
+
 
 
