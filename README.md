@@ -10,6 +10,4 @@ g:-NULL Pointer
 h:-Pass by value and Pass by reference(pointers & alias)
 i:-Array Pointer
 j:-Pointer Arithmetic
-k:-Inline and Constexpr functions
-l:-Exception Handling
-m:-Memory Management
+
