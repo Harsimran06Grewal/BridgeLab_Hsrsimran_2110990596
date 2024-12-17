@@ -1,30 +1,18 @@
-Date :09-12-2024
+Date :-17-12-2024
 Topics Covered:-
-a:-Echo , touch ,cat ,nano,ls,pwd ,cd  commands
-b:-Cloning a repository and sub branch on local mahine
-c:-Adding a file
-d:-Commiting a file
-e:-Checking the status of branch: Tracked and Untracked
-f:-Push Command:Upload repository content to remote repository
-g:-Init Command:used to create a new git repository
+a:-Arrays (Syntax)
+b:-Arrays(Input/Output)
+c:-Arrays(Accessing Elements in Array)
+d:-Arrays(Loops)
+e:-Practice Questions of Arrays :
+  :-Smallest Element of an Array
+  :-Largest  Element of an Array
+  :-Linear Search
+  :-Reverse an array
+  :-Sum and product of all numbers of an array
+  :-Swap smallest and largest number of an array
+  :-print all unique values of an array
+  :-print intersection of 2 arrays
+  
 
-Date :10-12-2024
-Topics Covered:
-a:-How to create a branch using checkout and switch keyword
-b:-How to create .gitignore and its uses
-c:-Merging a branch
-d:-Deleting a branch
-e:-Git Stash
-
-Date :11-12-2024
-Topics Covered:
-a:-Git rebase
-b:-Diff between merging and rebasing
-c:-How to create orphan branch and its implementation
-
-Date :12-12-2024
-Topics Covered:
-a:-Flowcharts and Pseudeo code,Installation
-b:-Variable,Data types,Operators
-c:-Conditional Statements,Loops
 
