@@ -72,6 +72,12 @@ e:-Practice Questions of Arrays :
   :-Swap smallest and largest number of an array
   :-print all unique values of an array
   :-print intersection of 2 arrays
-
+  
+Date :18-12-2024
+Topics Covered:-
+a:-2D Arrays
+b:-Vectors
+c:-Exception Handling
+d:-Memory Management
 
 
