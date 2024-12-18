@@ -1,4 +1,4 @@
-Date :09-12-2024
+Date :-09-12-2024
 Topics Covered:-
 a:-Echo , touch ,cat ,nano,ls,pwd ,cd  commands
 b:-Cloning a repository and sub branch on local mahine
@@ -8,22 +8,22 @@ e:-Checking the status of branch: Tracked and Untracked
 f:-Push Command:Upload repository content to remote repository
 g:-Init Command:used to create a new git repository
 
-Date :10-12-2024
-Topics Covered:
+Date :-10-12-2024
+Topics Covered:-
 a:-How to create a branch using checkout and switch keyword
 b:-How to create .gitignore and its uses
 c:-Merging a branch
 d:-Deleting a branch
 e:-Git Stash
 
-Date :11-12-2024
-Topics Covered:
+Date :-11-12-2024
+Topics Covered:-
 a:-Git rebase
 b:-Diff between merging and rebasing
 c:-How to create orphan branch and its implementation
 
-Date :12-12-2024
-Topics Covered:
+Date :-12-12-2024
+Topics Covered:-
 a:-Flowcharts and Pseudeo code,Installation
 b:-Variable,Data types,Operators
 c:-type casting and type conversion
@@ -34,8 +34,8 @@ e:-Questions Practiced:
   :-Sum of numbers from 1 to N
   
 
-Date :13-12-2024
-Topics Covered:
+Date :-13-12-2024
+Topics Covered:-
 a:-Loops Practice Questions:
  :-Prime Number
  :-Sum of numbers divisible by 3
@@ -44,8 +44,8 @@ b:-Do While loop
 b:-Nested Loops
 c:-Patterns
 
-Date :16-12-2024
-Topics Covered:
+Date :-16-12-2024
+Topics Covered:-
 a:-Switch 
 b:-Structure
 c:-Memory Address
@@ -72,7 +72,7 @@ e:-Practice Questions of Arrays :
   :-Swap smallest and largest number of an array
   :-print intersection of 2 arrays
   
-Date :18-12-2024
+Date :-18-12-2024
 Topics Covered:-
 a:-2-D Arrays (Syntax)
 b:-2-D Arrays(Input/Output)
