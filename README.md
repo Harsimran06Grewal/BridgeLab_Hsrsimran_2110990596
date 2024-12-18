@@ -1,6 +1,5 @@
-
-Date :13-12-2024
-Topics Covered:
+Date :-13-12-2024
+Topics Covered:-
 a:-Loops Practice Questions:
  :-Prime Number
  :-Sum of numbers divisible by 3
