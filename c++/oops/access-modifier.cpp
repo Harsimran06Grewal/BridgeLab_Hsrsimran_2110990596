@@ -3,17 +3,24 @@
 using namespace std;
 
 class Teacher{
+private:
+    double salary;
 public:
     string name;
     string dept;
     string subject;
-    double salary;
     
     void changeDept(string newDept){
-        dept = newDept;
+        newDept = dept;
     }
-    string getDept(){
-        return dept;
+
+    //setter
+    void setSalary(double s){
+        salary = s;
+    }
+    //getter
+    double getSalary(){
+        return salary;
     }
 };
 
@@ -22,11 +29,9 @@ int main(){
     t1.name = "simran";
     t1.dept = "CSE";
     t1.subject = "c++";
-    t1.salary = 2500000;
-    t1.changeDept("Mechnical");
+    t1.setSalary(25000);
 
-    cout << t1.name << endl;
-    cout << t1.getDept() << endl;
+    cout << t1.getSalary() << endl;
 
     return 0;
 }
