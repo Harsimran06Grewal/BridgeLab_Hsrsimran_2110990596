@@ -82,3 +82,8 @@ e:- Practice Questions on 2-D Arrays:-
       :-Diagonal Sum (Time Complexity-O(n2))
       :-Diagonal Sum (Time Complexity-O(n)) 
 f:-2-D Vectors
+
+Date :-20-12-2024 
+Topics Covered: 
+a:-Practice Questions 
+      :-atm-withdrawal
