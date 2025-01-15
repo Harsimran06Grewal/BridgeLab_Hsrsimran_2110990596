@@ -1,4 +1,4 @@
-Date:-18-12-2024
+Date:- 18-12-2024
 Topics Covered:-
 a:-2-D Arrays (Syntax)
 b:-2-D Arrays(Input/Output)
