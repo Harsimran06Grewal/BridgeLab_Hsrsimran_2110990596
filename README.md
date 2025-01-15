@@ -1,4 +1,4 @@
-Date :-17-12-2024
+Date:- 17-12-2024
 Topics Covered:-
 a:-Arrays (Syntax)
 b:-Arrays(Input/Output)
