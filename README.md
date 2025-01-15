@@ -1,4 +1,4 @@
-Date :-13-12-2024
+Date:- 13-12-2024
 Topics Covered:-
 a:-Loops Practice Questions:
  :-Prime Number
