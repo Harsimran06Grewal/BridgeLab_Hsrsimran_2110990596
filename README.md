@@ -142,9 +142,9 @@ e:-new keyword
 f:-delete keyword
 g:-malloc, calloc, realloc keyword
 f:-free keyword
-g:-Difference between new and malloc
-h:-Inline functions
-g:-Constexpr functions
+h:-Difference between new and malloc
+i:-Inline functions
+j:-Constexpr functions
 
 Date:- 07-01-2025
 Topics Covered:-
